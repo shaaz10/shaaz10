@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Shaaz 👋
 
-<!--
-**shaaz10/shaaz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 💻 Full-stack Developer | AI Enthusiast
+- 🎯 Passionate about solving real-world problems with technology
+- 🌱 Currently working on [Your Project Name]
+- 📚 Learning [Technology/Concept]
+- 🔗 Connect with me: [LinkedIn/Twitter/Portfolio]
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
