@@ -3,9 +3,9 @@
 ### 🚀 About Me
 - 💻 Full-stack Developer | AI Enthusiast
 - 🎯 Passionate about solving real-world problems with technology
-- 🌱 Currently working on [Your Project Name]
-- 📚 Learning [Technology/Concept]
-- 🔗 Connect with me: [LinkedIn/Twitter/Portfolio]
+- 🌱 Currently working on Complaint_platform for VNRVJIET
+- 📚 Learning AZURE
+- 🔗 Connect with me: https://www.linkedin.com/in/shaaz-hussain-4327a527b/
 
 ### 🔧 Technologies & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
