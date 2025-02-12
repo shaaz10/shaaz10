@@ -15,4 +15,4 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python)
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaaz10&show_icons=true&theme=radical)
