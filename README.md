@@ -1,9 +1,9 @@
 # Hi, I'm Shaaz 👋
 
 ### 🚀 About Me
-- 💻 Full-stack Developer | AI Enthusiast
+- 💻 Full-stack Developer | AI Enthusiast | GenAI Developer
 - 🎯 Passionate about solving real-world problems with technology
-- 🌱 Currently working on Complaint_platform for VNRVJIET
+- 🌱 Currently working on VJ-hub for VNRVJIET
 - 📚 Learning AZURE
 - 🔗 Connect with me: https://www.linkedin.com/in/shaaz-hussain-4327a527b/
 
